@@ -4,7 +4,7 @@ import ItemListContainer from "./ItemListContainer";
 function App() {
   return (
     <div> <nav><Navbar/>
-<ItemListContainer greeting="Hola a todos"/>
+<ItemListContainer greeting="Bienvenidos a mi pagina"/>
 
 </nav>
     </div>
